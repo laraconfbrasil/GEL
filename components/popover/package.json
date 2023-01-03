@@ -1,6 +1,6 @@
 {
 	"name": "@westpac/popover",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"description": "Small content popup panels triggered by a button, containing contextual supporting information",
 	"homepage": "https://gel.westpacgroup.com.au/design-system",
 	"repository": "https://github.com/WestpacGEL/GEL/tree/master/components/popover",
@@ -54,7 +54,7 @@
 		"@westpac/button": "^2.1.0",
 		"@westpac/core": "^3.1.0",
 		"@westpac/heading": "^2.1.0",
-		"@westpac/hooks": "^3.0.1",
+		"@westpac/hooks": "^3.1.0",
 		"@westpac/icon": "^2.0.1",
 		"prop-types": "^15.7.2"
 	},

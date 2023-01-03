@@ -1,5 +1,13 @@
 # @westpac/form-check
 
+## 2.1.1
+
+### Patch Changes
+
+- e9d5db29: Fixed some React 18 Hydration Errors.
+- Updated dependencies [e9d5db29]
+  - @westpac/hooks@3.1.0
+
 ## 2.1.0
 
 ### Minor Changes

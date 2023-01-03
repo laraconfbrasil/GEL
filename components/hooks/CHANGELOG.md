@@ -1,5 +1,11 @@
 # @westpac/hooks
 
+## 3.1.0
+
+### Minor Changes
+
+- e9d5db29: Added a new hook "useIsomorphicLayoutEffect".
+
 ## 3.0.1
 
 ### Patch Changes

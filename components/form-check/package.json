@@ -1,6 +1,6 @@
 {
 	"name": "@westpac/form-check",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"description": "Radio and checkbox input elements used to capture simple responses, available in two sizes and layouts, with optional hint text",
 	"homepage": "https://gel.westpacgroup.com.au/design-system",
 	"repository": "https://github.com/WestpacGEL/GEL/tree/master/components/form-check",
@@ -52,7 +52,7 @@
 		"@westpac/body": "^2.1.0",
 		"@westpac/button": "^2.1.0",
 		"@westpac/core": "^3.1.0",
-		"@westpac/hooks": "^3.0.1",
+		"@westpac/hooks": "^3.1.0",
 		"@westpac/icon": "^2.0.1",
 		"prop-types": "^15.7.2"
 	},
